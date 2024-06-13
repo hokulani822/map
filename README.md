@@ -8,7 +8,7 @@
 - 地図上でピンをクリックすると世界遺産の説明や写真が見られる
 
 ## ③DEMO
-- https://hokulani822.github.io/LINEchat-/
+- https://hokulani822.github.io/map/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
